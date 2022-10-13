@@ -1,2 +1,2 @@
-# loops---project-
+# loops-project-
 loops practice project 
