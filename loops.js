@@ -10,7 +10,7 @@ for(let i = 0; i < input.length; i++){
         if(input[i] === "e"){ // this will double every e it finds. 
             resultsArray.push(input[i]) //
         }
-        if(input[i] === "u"){ // this will double ever u it finds. 
+        if(input[i] === "u"){ // this will double every u it finds. 
             resultsArray.push(input[i])
         }
     }
